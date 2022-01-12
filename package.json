@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauruco/common-js-tools.git"
+    "url": "git+https://github.com/gustavodiasdev/common-js-tools.git"
   },
   "author": "Mauro Brizida",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mauruco/common-js-tools/issues"
+    "url": "https://github.com/gustavodiasdev/common-js-tools/issues"
   },
-  "homepage": "https://github.com/mauruco/common-js-tools#readme",
+  "homepage": "https://github.com/gustavodiasdev/common-js-tools#readme",
   "devDependencies": {
     "eslint": "^6.4.0",
     "eslint-config-airbnb-base": "^14.0.0",
